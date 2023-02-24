@@ -1,0 +1,128 @@
+body{
+    background-image: url(https://winwincoins.com/assets/images/background/bg-choose.555.jpg);
+    overflow-x: hidden;
+}
+.class{
+    animation: 2s anim-lineUp ease-out ;
+  }
+  @keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+  .class1{
+    animation: 2s anim-lineUp ease-out ;
+  }
+  @keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+  .class2 {
+    animation: 2s anim-lineUp ease-out ;
+  }
+  @keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+  .grid{
+    animation: 2s anim-lineUp ease-out ;
+  }
+  @keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+  .grid1 {
+    animation: 2s anim-lineUp ease-out ;
+  } 
+  @keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+ 
+  .style-44 {
+    background: url(../img/banner-7.jpg) !important;
+    background-size: cover !important;
+}
+.cadrColor{
+  background-color: rgba(26, 3, 3, 0);
+}
+.bordercolors{
+
+  margin-top: 5%;
+}
+.bordercolors :hover{
+  background: #009dff8c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ec2f4bb0, #009dff7e);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ec2f4b85, #009dffa9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  ;
+  background: -webkit-linear-gradient(to right, #ec2f4bb0, #009dff7e);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ec2f4b85, #009dffa9); ;
+  border: 2px solid  white;
+}
+.cardhover :hover{
+
+}
